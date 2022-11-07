@@ -7,12 +7,12 @@ This is not the original Package it is a fork to solve the viewPropTypes Issues 
 USE
 
 ```bash
-yarn add https://github.com/NorthroomZA/react-native-textarea-viewPropTypes-Fix/blob/master/README.md
+yarn add https://github.com/NorthroomZA/react-native-textarea-viewPropTypes-Fix
 ```
 or
 
 ```bash
-npm install https://github.com/NorthroomZA/react-native-textarea-viewPropTypes-Fix/blob/master/README.md
+npm install https://github.com/NorthroomZA/react-native-textarea-viewPropTypes-Fix
 ```
 
 # react-native-textarea
