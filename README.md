@@ -2,7 +2,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Note
 
-This is not the original Package it ia a fork to solve the viewPropTypes Issues that started after react-native 0.69.7 release
+This is not the original Package it is a fork to solve the viewPropTypes Issues that started after react-native 0.69.7 release
 
 # react-native-textarea
 
